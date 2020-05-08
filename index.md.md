@@ -8,8 +8,8 @@ header:
   #actions:
   #  - label: "<i class='fas fa-download'></i> Click Here For Resume"
   #    url: "/docs/SRE_OnePager.pdf"
-excerpt: >
-    Dentist, Clinical Research Analyst, Loving Mother, Blogger & Foodie
+#excerpt: >
+    #Dentist, Clinical Research Analyst, Loving Mother, Blogger & Foodie
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "First Blog"
