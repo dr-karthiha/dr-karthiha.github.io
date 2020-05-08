@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 header:
+  title: "Karthiha Ramalingam"
   overlay_color: "#5e616c"
   overlay_image: /assets/images/HomePage_Feature.jpg
   caption: "Photo Credit: [**Aswinkumar**](https://aswinkumar.in)"
