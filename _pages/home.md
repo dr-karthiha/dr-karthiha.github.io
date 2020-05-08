@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Ak_HomePage_Feature.jpg
+  overlay_image: /assets/images/HomePage_Feature.jpg
   caption: "Photo Credit: [**Aswinkumar**](https://aswinkumar.in)"
   #actions:
   #  - label: "<i class='fas fa-download'></i> Click Here For Resume"
