@@ -1,5 +1,6 @@
 ---
 title: "Why I chose to become a Dentist?"
+classes: wide
 categories:
   - About
 tags:
