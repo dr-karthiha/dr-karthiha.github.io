@@ -1,10 +1,9 @@
 ---
-title: "Male Infertility"
+title: "Infertility"
 classes: wide
 categories:
   - Health
 tags:
-  - Men's Health
   - Awareness
   - Taboo
 ---
