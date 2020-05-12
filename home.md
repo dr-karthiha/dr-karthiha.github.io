@@ -9,13 +9,27 @@ header:
   #  - label: "<i class='fas fa-download'></i> Click Here For Resume"
   #    url: "/docs/SRE_OnePager.pdf"
 excerpt: >
-    Blogger, Clinical Research Associate, Dentist, Adventurist, and Foodie
+    Dentist, ACR Grad Student, & A Loving Mother
 feature_row:
   - image_path: /assets/images/Dentist.jpg
-    alt: "First Blog"
+    alt: "Recent Blog(1)"
     title: "Why I became a Dentist?"
     excerpt: "Dream, and make sure to follow through it"
     url: "/about/why-i-chose-to-become-a-dentist/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+  - image_path: /assets/images/Dentist.jpg
+    alt: "Recent Blog(2)"
+    title: "Demystifying PMS"
+    excerpt: "Wonder what PMS is ?"
+    url: "/health/PMS/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+  - image_path: /assets/images/Dentist.jpg
+    alt: "Recent Blog(3)"
+    title: "Infertility"
+    excerpt: "Lets talk more about the Taboo topic"
+    url: "/health/The-Shhhhhhh-Topic/"
     btn_class: "btn--primary"
     btn_label: "Read more"
 ---
